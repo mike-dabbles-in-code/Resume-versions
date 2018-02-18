@@ -5,7 +5,7 @@ body{
 	line-height: 1.5;
 	padding: 0;
 	margin: 0;
-	background-color: #f4f4f4;
+	background-color: #A8D0E6;
 	letter-spacing: 1px;
 }
 
@@ -19,12 +19,12 @@ body{
 /*---------SECTIONING--------*/
 
 header{
-	background: #35424a;
+	background: #374785;
 	color: #ffffff;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 30px;
-	border-bottom: #e8491d 2px solid;
+	border-bottom: #F76C6C 2px solid;
 }
 header li{
 	float; left;
@@ -45,14 +45,14 @@ nav {
 }
 
 header span{
-	color: #e8491d;
+	color: #F76C6C;
 }
 
 span{
 	/*color: #e8491d;*/
 }
 #hoverred:hover{
-	color: #e8491d;
+	color: #F76C6C;
 	font-weight: 700;
 }
 #hover:hover{
@@ -93,7 +93,7 @@ header #branding{
 
 
 footer{
-	background-color: #e8491d;
+	background-color: #F76C6C;
 	color: #ffffff;
 	font-size: 10px;
 }
